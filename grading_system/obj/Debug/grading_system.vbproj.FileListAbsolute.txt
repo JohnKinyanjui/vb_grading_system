@@ -1,0 +1,12 @@
+C:\Users\jakes\source\repos\grading_system\grading_system\bin\Debug\grading_system.exe.config
+C:\Users\jakes\source\repos\grading_system\grading_system\bin\Debug\grading_system.exe
+C:\Users\jakes\source\repos\grading_system\grading_system\bin\Debug\grading_system.pdb
+C:\Users\jakes\source\repos\grading_system\grading_system\bin\Debug\grading_system.xml
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.vbproj.AssemblyReference.cache
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.Form1.resources
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.Resources.resources
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.vbproj.GenerateResource.cache
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.vbproj.CoreCompileInputs.cache
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.exe
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.xml
+C:\Users\jakes\source\repos\grading_system\grading_system\obj\Debug\grading_system.pdb
